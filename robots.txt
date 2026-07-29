@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sangsu-shirts-note.go-bangbae-room.xyz/sitemap.xml
